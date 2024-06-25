@@ -11,3 +11,6 @@ print(friends)
 
 friends.append("creed")
 print(friends)
+
+friends.insert(1,"lee")
+print(friends)
