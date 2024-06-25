@@ -1,0 +1,4 @@
+janu=hero
+ramya=heroin
+jay=speaker
+mani=camera mani
