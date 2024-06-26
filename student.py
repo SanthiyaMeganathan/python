@@ -15,3 +15,10 @@ class student:
         # Now we have created the student data type and we can use this data type any where, the int() is considerd as a data type  and anything which we put into that int function will be converted into the integer when it statisfy the rule that it should be the whole number
         #like that any anything which put into the student() will be converted into the student data type when it satisfy the rule it should have name,department, and gpa that it it should have 3 values
         #we can import this calss to any other python file using the syntax :     from filename import class name  eg:object.py
+
+
+    def on__is__honor(self):
+        if self.gpa >= 3.5 :
+            return True
+        else:
+            return False
